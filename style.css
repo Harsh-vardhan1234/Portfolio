@@ -1,0 +1,109 @@
+ul{
+    list-style-type:none ;
+} 
+
+#one{
+    float: right;
+    font-size: 35px;
+    font-weight: bold;
+    padding-right: 36px;
+}
+#two{
+    float: right; 
+    font-size: 35px;
+    font-weight: bold;
+    padding-right: 36px;
+}
+#three{
+    float: right;   
+    font-size: 35px;
+    font-weight: bold;
+    padding-right: 36px;
+}
+a{
+    color: #58585858;
+    text-decoration: none;
+
+}
+#para{
+    max-width: 300px;
+    font-size: 25px;
+    color: #585858;
+}
+h5{
+    font-size: 20px;
+    color: #585858;
+    padding-bottom: 1px;
+}
+h1{
+    padding-bottom: 8px;
+    color: #3a3535;
+}
+#info{
+    padding-top:250px ;
+    padding-left: 370px;
+    float: left;
+}
+#first{
+    float: center;
+border-radius: 50%;
+height: 310px;
+width: 310px;
+}
+#second{
+    padding-top: 200px;
+    position: absolute;
+left: 60%;
+}
+#skillset{
+position: absolute;
+padding-top: 620px;
+padding-left: 528px;
+font-weight: bold;
+font-size: 25px;
+}
+#skillsone{
+position: absolute;
+padding-top:  740px;
+padding-left: 260px;
+padding-right: 100px;
+}
+#skillstwo{
+position: absolute;
+padding-top: 970px;
+padding-left: 260px;
+padding-right: 100px;
+
+}
+#html{
+    height: 190px;
+    width: 190px; 
+padding-right: 110px;
+}
+#css{
+    height: 190px;
+    width: 190px;   
+}
+#javascript{
+    height: 190px;
+    width: 190px; 
+    padding-left: 110px;
+}
+#mit{
+    height: 190px;
+    width: 190px;  
+    padding-right: 110px;
+}
+#java{
+    height: 190px;
+    width: 190px;  
+}
+#cplus{
+    height: 190px;
+    width: 190px;
+    padding-left: 110px;
+}
+
+
+
+
